@@ -10,7 +10,7 @@
 
     <properties>
         <junit5.platform.version>5.4.1</junit5.platform.version>
-        <junit4.version>4.12</junit4.version>
+        <junit4.version>4.13.1</junit4.version>
         <mockito.version>1.10.19</mockito.version>
         <spring.version>5.1.6.RELEASE</spring.version>
         <selenium.version>3.11.0</selenium.version>
